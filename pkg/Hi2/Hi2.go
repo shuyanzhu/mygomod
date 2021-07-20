@@ -1,4 +1,4 @@
-package H2
+package Hi2
 
 import (
 	"fmt"
