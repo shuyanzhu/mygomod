@@ -6,7 +6,7 @@ import (
 
 func init() {
 	fmt.Println("In Hi2: ")
-	fmt.Println(h1)
+	fmt.Println(h2)
 }
 
 var h2 = h1 + 1
