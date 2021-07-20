@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+func init() {
+	fmt.Println(h2)
+}
+
 var h1 = 1
 
 func Hi3(name string) string {
