@@ -5,6 +5,7 @@ import (
 )
 
 func init() {
+	fmt.Println("In Hi3: ")
 	fmt.Println(h2)
 }
 
