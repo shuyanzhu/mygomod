@@ -4,9 +4,8 @@ import (
 	"fmt"
 )
 
-var h2 = h1
+var h1 = 1
 
-func Hi2(name string) string {
-	fmt.Println(h1, h2)
+func Hi3(name string) string {
 	return fmt.Sprintf("Hi, %s", name)
 }
